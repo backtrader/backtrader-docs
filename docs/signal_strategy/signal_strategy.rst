@@ -192,13 +192,13 @@ The *backtrader* sources contain a sample to test the functionality.
 
 Main signal to be used.
 
-.. literalinclude:: ../../samples/signals-strategy/signals-strategy.py
+.. literalinclude:: signals-strategy.py
    :language: python
    :lines: 43-49
 
 And the *Exit Signal* in case the option is specified.
 
-.. literalinclude:: ../../samples/signals-strategy/signals-strategy.py
+.. literalinclude:: signals-strategy.py
    :language: python
    :lines: 51-59
 
@@ -323,6 +323,6 @@ Usage
 The code
 --------
 
-.. literalinclude:: ../../samples/signals-strategy/signals-strategy.py
+.. literalinclude:: signals-strategy.py
    :language: python
    :lines: 21-

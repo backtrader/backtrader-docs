@@ -380,6 +380,6 @@ Sample Usage
 Sample Code
 ***********
 
-.. literalinclude:: ../../samples/talib/talibtest.py
+.. literalinclude:: talibtest.py
    :language: python
    :lines: 21-
