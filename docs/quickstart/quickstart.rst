@@ -285,7 +285,7 @@ The *"exit concept"* will be an easy one:
 
 Additionally and to simplify:
 
-  - Do only allow a Buy order if not yet in the market
+  - Do only allow a Sell order if not yet in the market
 
 .. note:: The *next* method gets no "bar index" passed and therefore it seems
           obscure how to understand when 5 bars may have elapsed, but this has
@@ -461,7 +461,7 @@ Portfolio above the initial 100000 monetary units the strategy started with.
 Customizing the Strategy: Parameters
 ====================================
 
-It would a bit unpractical to hardcode some of the values in the strategy and
+It would be a bit unpractical to hardcode some of the values in the strategy and
 have no chance to change them easily. *Parameters* come in handy to help.
 
 Definition of parameters is easy and looks like::
@@ -487,7 +487,7 @@ the strategy to the Cerebro engine::
 	  here for anyone looking at old samples of the sources. The sources
 	  have been update to use::
 
-	    cerebro.addsizer(bt.sizers.FixedSize, stake=10)``
+	    cerebro.addsizer(bt.sizers.FixedSize, stake=10)
 
 	  Please read the section about *sizers*
 
@@ -812,7 +812,7 @@ Results:
 
   * For periods below 18 the strategy (commissionless) loses money.
   * For periods between 18 and 26 (both included) the strategy makes money.
-  * Above 26 money is lost agagin.
+  * Above 26 money is lost again.
 
 And the winning period for this strategy and the given data set is:
 
