@@ -461,7 +461,7 @@ Portfolio above the initial 100000 monetary units the strategy started with.
 Customizing the Strategy: Parameters
 ====================================
 
-It would a bit unpractical to hardcode some of the values in the strategy and
+It would be a bit unpractical to hardcode some of the values in the strategy and
 have no chance to change them easily. *Parameters* come in handy to help.
 
 Definition of parameters is easy and looks like::
