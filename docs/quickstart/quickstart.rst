@@ -285,7 +285,7 @@ The *"exit concept"* will be an easy one:
 
 Additionally and to simplify:
 
-  - Do only allow a Buy order if not yet in the market
+  - Do only allow a Sell order if not yet in the market
 
 .. note:: The *next* method gets no "bar index" passed and therefore it seems
           obscure how to understand when 5 bars may have elapsed, but this has
