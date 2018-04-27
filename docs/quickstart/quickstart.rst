@@ -812,7 +812,7 @@ Results:
 
   * For periods below 18 the strategy (commissionless) loses money.
   * For periods between 18 and 26 (both included) the strategy makes money.
-  * Above 26 money is lost agagin.
+  * Above 26 money is lost again.
 
 And the winning period for this strategy and the given data set is:
 
