@@ -487,7 +487,7 @@ the strategy to the Cerebro engine::
 	  here for anyone looking at old samples of the sources. The sources
 	  have been update to use::
 
-	    cerebro.addsizer(bt.sizers.FixedSize, stake=10)``
+	    cerebro.addsizer(bt.sizers.FixedSize, stake=10)
 
 	  Please read the section about *sizers*
 
