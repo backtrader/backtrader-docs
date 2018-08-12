@@ -493,7 +493,7 @@ the strategy to the Cerebro engine::
 
 Using the parameters in the strategy is easy, as they are stored in a "params"
 attribute. If we for example want to set the stake fix, we can pass the stake
-parameter to the *position sizer* like this durint __init__::
+parameter to the *position sizer* like this during __init__::
 
   # Set the sizer stake from the params
   self.sizer.setsizing(self.params.stake)
