@@ -734,8 +734,8 @@ After the execution the output is::
   2000-12-29T00:00:00, SELL CREATE, 27.41
   Final Portfolio Value: 981.00
 
-**The final result has changed even if the logic hasn't**. This is true but the
- logic has not been applied to the same number of bars.
+**The final result has changed even if the logic hasn't**. 
+This is true but the logic has not been applied to the same number of bars.
 
 .. note:: As explained before, the platform will first call next when all
 	  indicators are ready to produce a value. In this plotting example
