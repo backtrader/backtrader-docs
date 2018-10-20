@@ -109,8 +109,8 @@ cash and run the example again.
 
 After the execution the output is::
 
-  Starting Portfolio Value: 1000000.00
-  Final Portfolio Value: 1000000.00
+  Starting Portfolio Value: 100000.00
+  Final Portfolio Value: 100000.00
 
 Mission accomplished. Let's move to tempestuous waters.
 
