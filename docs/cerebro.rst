@@ -4,7 +4,7 @@ Cerebro
 This class is the cornerstone of ``backtrader`` because it serves as a central
 point for:
 
-  1. Gathering all inputs (*Data Feeds*), actors (*Stratgegies*), spectators
+  1. Gathering all inputs (*Data Feeds*), actors (*Strategies*), spectators
      (*Observers*), critics (*Analyzers*) and documenters (*Writers*) ensuring the
      show still goes on at any moment.
 
